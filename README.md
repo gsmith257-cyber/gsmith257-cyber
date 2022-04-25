@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to S1n1st3r's GitHub
+
+<img src="https://komarev.com/ghpvc/?username=gsmith257-cyber&style=flat-square&color=blue" alt=""/>
+
+<h2>Current Projects:</h2>
+-EV1L J3ST3R - Adding more features
 
 <!--
 **gsmith257-cyber/gsmith257-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
