@@ -13,7 +13,7 @@
 </div>
  
 <h2>About me:</h2>
-I am a curent cybersecurity student from the USA. I am working to start as a penetration tester and love doing HTB and TryHackMe in my freetime.
+I am a curent cybersecurity student from the USA who is working to start as a penetration tester and loves doing HTB and TryHackMe in my freetime.
   
 <h2>Current Projects:</h2>
 -EV1L J3ST3R - Adding more features
