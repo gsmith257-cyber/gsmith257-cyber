@@ -17,6 +17,7 @@ I am a curent cybersecurity student from the USA who is working to start as a pe
   
 <h2>Current Projects:</h2>
 -GraphCrawler - Making the best GraphQL hacking tool out there
+<div>
 -EV1L J3ST3R - Adding more features
 
 <!--
