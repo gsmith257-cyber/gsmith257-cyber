@@ -15,6 +15,10 @@
 <h2>About me:</h2>
 I am a curent cybersecurity student from the USA who is working to start as a penetration tester and loves doing HTB and TryHackMe in my freetime.
   
+## Buy me a Coffee
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/S1n1st3r)
+  
 <h2>Current Projects:</h2>
 -GraphCrawler - Making the best GraphQL hacking tool out there
 <div>
