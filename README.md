@@ -23,6 +23,8 @@ I am a curent cybersecurity student from the USA who is working to start as a pe
 -GraphCrawler - Making the best GraphQL hacking tool out there
 <div>
 -EV1L J3ST3R - Adding more features
+  
+Currently not as active as I would like, I'm rlly busy running the VT Cyber Club.
 
 <!--
 **gsmith257-cyber/gsmith257-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
