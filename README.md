@@ -13,7 +13,7 @@
 </div>
  
 <h2>About me:</h2>
-I am a curent cybersecurity student from the USA who is working to start as a penetration tester and loves doing HTB and TryHackMe in my freetime.
+I am a curent Red Team Engineer from the USA who likes to write malware and memes.
   
 ## Buy me a Coffee
 
