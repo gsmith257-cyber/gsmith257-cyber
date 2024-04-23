@@ -20,10 +20,8 @@ I am a curent Red Team Engineer from the USA who likes to write malware and meme
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/S1n1st3r)
   
 <h2>Current Projects:</h2>
--GraphCrawler - Making the best GraphQL hacking tool out there
+- MalDev work thats a spooky secret
 <div>
-  
-Currently not as active as I would like, I'm rlly busy running the VT Cyber Club.
 
 <!--
 **gsmith257-cyber/gsmith257-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
