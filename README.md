@@ -20,7 +20,7 @@ I am a curent Red Team Engineer from the USA who likes to write malware and meme
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/S1n1st3r)
   
 <h2>Current Projects:</h2>
-- MalDev work thats a spooky secret
+- MalDev work that's a spooky secret
 <div>
 
 <!--
