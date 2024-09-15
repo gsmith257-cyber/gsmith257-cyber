@@ -13,7 +13,7 @@
 </div>
  
 <h2>About me:</h2>
-I am a curent Red Team Engineer from the USA who likes to write malware and memes.
+I am a current Red Team Engineer from the USA who likes to write malware and memes.
   
 ## Buy me a Coffee
 
